@@ -1,0 +1,25 @@
+.myContainer,body{
+    background-color:#6d2aff;
+    color:white;
+    margin-top:10%;
+}
+
+.lead{
+    margin:auto;
+    font-weight: 500;
+}
+.myjumbotron{
+    background-color: #d8c7ff;
+    color:#6d2aff;
+}
+.btn{
+    margin-top:3%;
+    text-align: center;
+    background-color: #6d2aff;
+}
+
+.author{
+    text-align: right;
+    font-weight: 500;
+    font-size: large;
+}
